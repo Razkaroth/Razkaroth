@@ -11,6 +11,6 @@ Currently I work as CTO / Lead software developer for the media outlet [POPLab.m
 As a freelancer, [I have worked as the lead developer of the SART platform](sart.pdf) (Early warning and response system) for the
 Ministry of Human Rights of the Republic of Honduras on 2021.
 
-I have won the 2021 national journalism award for my contribution to the web design and development of the report [“Carlos Zamarripa, el caudillo de la justicia mexicana.”](https://elcaudillo.poplab.mx/), a report on the corruption of the Mexican government.
+I have won the 2021 national journalism award in Mexico for my contribution to the web design and development of the report [“Carlos Zamarripa, el caudillo de la justicia mexicana.”](https://elcaudillo.poplab.mx/), a report on the corruption of the Mexican government.
 
 And more recently, the international [Fetisov Journalism Awards](https://fjawards.com/) for my contribution to the web design and development of the report ["Las Fichas de Coca Cola"](https://poplab.mx/especiales/las-fichas-de-coca/), a report on the Coca Cola Company's influence public health policies.
