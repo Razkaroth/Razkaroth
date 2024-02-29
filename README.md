@@ -13,4 +13,6 @@ Ministry of Human Rights of the Republic of Honduras on 2021.
 
 I have won the 2021 national journalism award in Mexico for my contribution to the web design and development of the report [“Carlos Zamarripa, el caudillo de la justicia mexicana.”](https://elcaudillo.poplab.mx/), a report on the general prosecutor office in Gto, Mexico.
 
+Then again, the 2022 national journalism award in Mexico for my contribution to the web design and development of the report [No es daño colateral, es nuestro futuro amenazado](https://poplab.mx/especiales/guanajuato-violencia-homicida-menores/), a report on how organized crime is using children and teenagers as their workforce in Gto, Mexico. 
+
 And more recently, the international [Fetisov Journalism Awards](https://fjawards.com/) for my contribution to the web design and development of the report ["Las Fichas de Coca Cola"](https://poplab.mx/especiales/las-fichas-de-coca/), a report on the Coca Cola Company's influence public health policies.
