@@ -4,7 +4,7 @@ I'm a former physics student, turned software developer.
 
 
 
-I started programming in 2018 with simulations of physical systems in Python while on college. A year later, here I was learning and developing my skills in Full stack web development, data analysis and visualization.
+I started programming in 2018 with simulations of physical systems in Python while on college. A year later, there I was learning and developing my skills in Full stack web development, data analysis and visualization.
 
 Currently I work as CTO / Lead software developer for the media outlet [POPLab.mx](https://poplab.mx), where I have developed a secure and high-performance web platform for the journalists to publish their investigations. I have also worked with journalists on digital security issues, complex crawler development, and data analysis and visualization.
 
